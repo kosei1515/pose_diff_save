@@ -1,0 +1,3 @@
+## pose_diff_save node
+
+このノードはposeデータが保存させれているcsvファイルと2D Pose Estimateを用いて指定位置と最近傍にあるndtposeもしくはekfposeのreferenceとの偏差を取り、保存するノードである
